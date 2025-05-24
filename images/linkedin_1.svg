@@ -1,0 +1,10 @@
+<svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="linkedin-2" data-name="linkedin">
+    <rect id="background" width="26" height="26" rx="3" fill="#0077b5"/>
+    <g id="icon" transform="translate(5.891 4.832)">
+      <path id="Path_85657" data-name="Path 85657" d="M37.793,35.2A2.2,2.2,0,1,1,35.6,33,2.2,2.2,0,0,1,37.793,35.2Z" transform="translate(-33.4 -33)" fill="#fff"/>
+      <path id="Path_85658" data-name="Path 85658" d="M40.163,69.825v9.7a.543.543,0,0,1-.543.546H37.3a.543.543,0,0,1-.545-.545V69.825a.545.545,0,0,1,.545-.545H39.62A.545.545,0,0,1,40.163,69.825Z" transform="translate(-36.268 -63.968)" fill="#fff"/>
+      <path id="Path_85659" data-name="Path 85659" d="M81.038,73.938v4.7a.5.5,0,0,1-.5.5H78.048a.5.5,0,0,1-.5-.5V74.083c0-.679.2-2.975-1.776-2.975-1.53,0-1.842,1.571-1.9,2.277v5.251a.5.5,0,0,1-.494.5h-2.4a.5.5,0,0,1-.5-.5V68.843a.5.5,0,0,1,.5-.5h2.4a.5.5,0,0,1,.5.5v.846a3.408,3.408,0,0,1,3.207-1.51C81.061,68.18,81.038,71.9,81.038,73.938Z" transform="translate(-65.042 -63.029)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
